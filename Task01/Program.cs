@@ -16,9 +16,9 @@ int res = numberB * numberB;
 
 if (res == numberA)
 {
-    Console.WriteLine("да");
+    Console.WriteLine($"первое число = {numberA}, второе число = {numberB} -> да");
 }
 else
 {
-    Console.WriteLine("нет");
+    Console.WriteLine($"первое число = {numberA}, второе число = {numberB} -> нет");
 }
