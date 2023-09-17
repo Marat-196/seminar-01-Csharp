@@ -1,0 +1,14 @@
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\bin\Debug\net7.0\Task00.exe
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\bin\Debug\net7.0\Task00.deps.json
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\bin\Debug\net7.0\Task00.runtimeconfig.json
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\bin\Debug\net7.0\Task00.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\bin\Debug\net7.0\Task00.pdb
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.AssemblyInfoInputs.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.AssemblyInfo.cs
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.csproj.CoreCompileInputs.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\refint\Task00.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.pdb
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\Task00.genruntimeconfig.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 01\Task00\obj\Debug\net7.0\ref\Task00.dll
